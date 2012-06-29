@@ -1,0 +1,3 @@
+== Sugilite
+
+Sugilite is a highly experimental programming language. It's not really useful yet, but may be some day.
